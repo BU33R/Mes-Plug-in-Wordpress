@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.titlePage{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cheat2-0{
+
+color: aliceblue;
+
+}
+
+
+.textCenter {
+
+
+    text-align: center;
+    color: aliceblue;
+}
+
+#wpwrap {
+
+    background-position: center;
+    background-image: url('../img/bg.jpg');
+}
